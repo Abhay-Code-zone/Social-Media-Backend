@@ -66,3 +66,5 @@ The API documentation is available at `http://localhost:8080/swagger-ui.html` wh
 
 This project is licensed under the MIT License.
 <!-- Update 1 -->
+
+<!-- Update 2 -->
